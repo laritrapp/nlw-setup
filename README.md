@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para rastrear os hábitos.
 
+- [Visite o projeto online] (https://laritrapp.github.io/nlw-setup)
+
 ## 🔖Layout
 
 Você pode visualizar o layout do projeto através de [ DESSE LINK ](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [ Figma ](https://figma.com) para acessá-lo.
@@ -46,4 +48,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ por Rocketseat : wave : [ Participe da nossa comunidade! ](https://discord.gg/rocketseat)
+
 # nlw-setup
